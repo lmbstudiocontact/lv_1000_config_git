@@ -57,7 +57,7 @@
         "link_page": "https://github.com/lmbstudiocontact/lv_1000_dt_st_0/raw/main/lv_1000_dt_st_96538789_3.json"
       }
     ],
-    "total": 304,
+    "total": 368,
     "id_album": "96538789",
     "name_album": "g...l"
   },
@@ -86,9 +86,13 @@
       {
         "index_page": 5,
         "link_page": "https://github.com/lmbstudiocontact/lv_1000_dt_st_0/raw/main/lv_1000_dt_st_102079921_5.json"
+      },
+      {
+        "index_page": 6,
+        "link_page": "https://github.com/lmbstudiocontact/lv_1000_dt_st_0/raw/main/lv_1000_dt_st_102079921_6.json"
       }
     ],
-    "total": 530,
+    "total": 671,
     "id_album": "102079921",
     "name_album": "m...r"
   },
@@ -117,9 +121,13 @@
       {
         "index_page": 5,
         "link_page": "https://github.com/lmbstudiocontact/lv_1000_dt_st_0/raw/main/lv_1000_dt_st_107621053_5.json"
+      },
+      {
+        "index_page": 6,
+        "link_page": "https://github.com/lmbstudiocontact/lv_1000_dt_st_0/raw/main/lv_1000_dt_st_107621053_6.json"
       }
     ],
-    "total": 525,
+    "total": 676,
     "id_album": "107621053",
     "name_album": "s...x"
   },
@@ -130,7 +138,7 @@
         "link_page": "https://github.com/lmbstudiocontact/lv_1000_dt_st_0/raw/main/lv_1000_dt_st_113162181_0.json"
       }
     ],
-    "total": 10,
+    "total": 19,
     "id_album": "113162181",
     "name_album": "y...z"
   }
